@@ -15,6 +15,7 @@ h5py = "*"
 notebook = "*"
 opencv-python = "*"
 matplotlib = "*"
+scipy = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
